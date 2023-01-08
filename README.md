@@ -1,7 +1,7 @@
 # Python-Programming-Course
 
 1 - Basic Level
-Topic 1: Introduction to python programming & Installation ofSpyder (anaconda3)
+* Topic 1: Introduction to python programming & Installation ofSpyder (anaconda3)
 Topic 2: Hello World and getting started with Python syntax
 Topic 3: create, rearrange, reassign Strings/ String methods
 Topic 4: Control Flow including if, else, and elif statements
