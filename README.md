@@ -10,7 +10,7 @@
 * Topic 7: Functions for code utilization/ apply functions on real-world concepts
 * Topic 8: Importing modules/ application on python's most famousmodule: math
 * Topic 9: Dictionaries and key-value pairs
-* Topic 10: Files Investigate the properties of text and CSV files byreading and writing to them
+* Topic 10: Files Investigate the properties of texts and CSV files byreading and writing to them
 
 2 - Intermediate level
 * Topic 1: Introduction to intermediate python programming course
